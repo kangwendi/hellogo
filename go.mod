@@ -1,4 +1,4 @@
-module github.com/hellogo
+module github.com/kangwendi/hellogo
 
 go 1.12
 
