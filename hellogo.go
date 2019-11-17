@@ -1,7 +1,6 @@
 package hellogo
 
 import (
-	_ "fmt"
 	quoteV3 "rsc.io/quote/v3"
 )
 
